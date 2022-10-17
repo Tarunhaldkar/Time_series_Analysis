@@ -25,3 +25,4 @@ Steps perform for model architecture
 6. TES Grid search
 7. ARIMA model
 8. ARIMA Grid search
+9. Evalution of model
